@@ -1,5 +1,5 @@
 package app.domain;
-// jaeyoung
+// jaeyoung //수정
 public class CommentVo {
 	
 	private int cidx;

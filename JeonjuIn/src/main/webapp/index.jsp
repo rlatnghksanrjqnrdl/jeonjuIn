@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Insert title here</title>
+<title>전주In</title>
 </head>
 <body>
-fsdfsdfsd
+
+<a>공지사항</a>
+
+
 </body>
 </html>
