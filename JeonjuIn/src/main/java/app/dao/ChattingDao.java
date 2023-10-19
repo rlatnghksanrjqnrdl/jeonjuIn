@@ -1,5 +1,5 @@
 package app.dao;
-//
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 
@@ -11,7 +11,7 @@ public class ChattingDao {
 	private PreparedStatement pstmt;
 	
 	public ChattingDao() {
-		DbConn dbconn = new DbConn();
+		//DbConn dbconn = new DbConn();
 		this.conn = dbconn.getConnection();
 	}
 
