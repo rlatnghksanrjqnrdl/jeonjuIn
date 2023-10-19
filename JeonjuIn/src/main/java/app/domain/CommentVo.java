@@ -1,5 +1,5 @@
 package app.domain;
-// ³ª´Â ÁË¿µ
+// jaeyoung
 public class CommentVo {
 	
 	private int cidx;
@@ -12,7 +12,7 @@ public class CommentVo {
 	
 	public int getCidx() {
 		return cidx;
-	}
+	} 
 	public void setCidx(int cidx) {
 		this.cidx = cidx;
 	}
