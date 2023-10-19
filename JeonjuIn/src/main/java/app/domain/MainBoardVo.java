@@ -3,7 +3,6 @@ package app.domain;
 public class MainBoardVo {
 	
 	private int bidx;
-<<<<<<< HEAD
 	private String subject;
 	private String contents;
 	private int viewcnt;
@@ -11,23 +10,6 @@ public class MainBoardVo {
 	private String writeday;
 	private String ip;
 	
-=======
-	private String boardtype;
-	private String subject;
-	private String contents;
-	private int viewcnt;
-	private int recommend;
-	private String writeday;
-	private String ip;
-	
-	
-	public String getBoardtype() {
-		return boardtype;
-	}
-	public void setBoardtype(String boardtype) {
-		this.boardtype = boardtype;
-	}
->>>>>>> branch 'master' of https://github.com/rlatnghksanrjqnrdl/jeonjuIn.git
 	public int getBidx() {
 		return bidx;
 	}
