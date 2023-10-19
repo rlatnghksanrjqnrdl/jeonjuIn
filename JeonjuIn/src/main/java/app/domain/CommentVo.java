@@ -1,5 +1,5 @@
 package app.domain;
-
+//
 public class CommentVo {
 	
 	private int cidx;
