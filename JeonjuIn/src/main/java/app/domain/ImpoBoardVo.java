@@ -1,5 +1,5 @@
 package app.domain;
-//공지사항게시판
+//공지사항게시판//
 public class ImpoBoardVo {
 	
 	private int impobidx ;
