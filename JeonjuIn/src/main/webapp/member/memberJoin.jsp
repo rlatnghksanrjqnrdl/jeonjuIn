@@ -12,7 +12,7 @@ $(document).ready(function(){
 	
 	//alert("test");	
 	$("#btn").on("click",function(){
-		//alert("클릭했습니다.");
+		//alert("클릭했습니다..");
 		
 		let memberId = $("#memberId").val();
 		
