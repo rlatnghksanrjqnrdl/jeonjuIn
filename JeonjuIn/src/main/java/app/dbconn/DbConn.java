@@ -11,7 +11,7 @@ public class DbConn {
 	private String password="1111";
 	
 	public Connection getConnection() {
-		Connection conn = null;
+		//Connection conn = null;
 		
 		try {
 			Class clz = Class.forName("com.mysql.cj.jdbc.Driver");
